@@ -1,0 +1,13 @@
+📊 Student Marks Analysis
+==============================
+
+Highest Scorer: Sangeeta (294 marks)
+Lowest Scorer: Priya (256 marks)
+
+Full Data:
+    Name  Math  Science  English  Total   Average
+Sangeeta   100       99       95    294 98.000000
+   Rahul    89       90       94    273 91.000000
+   Priya    99       70       87    256 85.333333
+    Amit    89       98       89    276 92.000000
+    Neha    94       76       86    256 85.333333
